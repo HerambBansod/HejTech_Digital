@@ -111,7 +111,7 @@ export default function Contact() {
                     </div>
 
                     <div className="flex items-center gap-4">
-                        <a className="w-10 h-10 rounded-full bg-black text-white flex items-center justify-center">
+                        <a className="w-10 h-10 rounded-full bg-black text-white flex items-center justify-center" href="https://www.instagram.com/hejtech_/">
                             <FiInstagram size={18} />
                         </a>
                         <a
